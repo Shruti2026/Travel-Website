@@ -39,10 +39,10 @@ npm run dev # or npm start if using CRA
 
 ## Screenshots
 
-![Desktop Screenshot](./src/assets/images/Screenshot1.png)<br><br>
+![HOME](./src/assets/images/Screenshot1.png)<br><br>
 
-![Desktop Screenshot](./src/assets/images/Screenshot2.png)
+![Famous Places](./src/assets/images/Screenshot2.png)
 
 ## Author
-Shruti Gupta
+Shruti Gupta<br>
 📧 gshruti779@gmail.com
